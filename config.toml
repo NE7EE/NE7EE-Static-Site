@@ -1,4 +1,4 @@
-baseURL = "https://NE7EE.github.io/"
+baseURL = "https://NE7EE.github.io/Ham_Operator/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -7,7 +7,7 @@ title = "NE7EE"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
-
+canonifyURLs = true
 [params]
   # LoveIt theme version
   version = "0.2.X"
